@@ -1,0 +1,17 @@
+div{
+    background-color: peru;
+    color: aliceblue;
+    padding: 20px; 
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 20px;
+    box-decoration-break: initial;
+    box-shadow: black;
+    padding: 25px 25px 25px 25px;
+}
+.family{
+    font-weight: bolder;
+    color: beige;
+    box-sizing: inherit;
+    
+}
