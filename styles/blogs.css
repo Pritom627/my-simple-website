@@ -8,6 +8,7 @@ div{
     box-decoration-break: initial;
     box-shadow: black;
     padding: 25px 25px 25px 25px;
+    margin-bottom: 10px;
 }
 .family{
     font-weight: bolder;
